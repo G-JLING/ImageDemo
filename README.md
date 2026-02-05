@@ -1,6 +1,6 @@
 # ImageDemo (HDR → SDR)
 
-一个 HDR → SDR 解码的演示项目，保留最小 Spring Boot 启动用于工程结构，但默认不启动 Web Server。
+一个 HDR → SDR 解码的演示项目，使用 Spring Boot 驱动。
 
 ## 外部工具
 
