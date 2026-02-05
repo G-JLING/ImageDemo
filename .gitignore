@@ -1,0 +1,44 @@
+HELP.md
+target/
+.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+data/images/
+
+# Local-only demo modules (not pushed to GitHub)
+src/main/java/me/jling/imagedemo/api/
+src/main/java/me/jling/imagedemo/image/main/
+src/main/java/me/jling/imagedemo/image/core/hdr/
+src/main/java/me/jling/imagedemo/image/variant/
+src/main/resources/static/
+apple_hdr_heic/
+scripts/
